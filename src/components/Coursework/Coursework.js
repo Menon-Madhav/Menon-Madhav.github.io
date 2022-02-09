@@ -18,8 +18,12 @@ const Coursework = () =>  (
           <ListTitle>University Courses</ListTitle>
           <ListParagraph>
             Mechanics & Oscillations<br /> 
+            Thermodynamics <br />
             Electrical Sciences<br />
             Computer Programming <br />
+            Linear Algebra <br />
+            Permutations & Statistics <br />
+            
             Mechanics of Solids <br />
             Material Sciences <br />
             Transport Phenomena <br />
@@ -42,13 +46,12 @@ const Coursework = () =>  (
           <ListTitle>Online Courses</ListTitle>
           <ListParagraph>
             Robotics Specialization(Coursera) <br />
-            Self Driving Car Specialization(Coursera)
-            Deep Learning Specialization(Coursera)
-            Engineering Simulations(Ansys)(EDx)
-            Computational Fluid Dynamics(NPTEL)
-            Automotive Systems(NPTEL)
-            Mapping(Univeristy of Freiburg)
-            <li>Autodesk</li>
+            Self Driving Car Specialization(Coursera) <br />
+            Deep Learning Specialization(Coursera) <br />
+            Engineering Simulations(Ansys)(EDx) <br />
+            Computational Fluid Dynamics(NPTEL) <br />
+            Automotive Systems(NPTEL) <br />
+            Mapping(Univeristy of Freiburg) <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>

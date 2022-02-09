@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Self-Cleaning Surfaces',
-    description: "Study-oriented project where I am going over various papers, journals to compile various resources regarding self-cleaning surfaces, there types their make and how to implement them, This is part of my coursework for Non-Traditional Processes. ",
+    description: "Study-oriented project where I am going over various papers, journals to compile various resources regarding self-cleaning surfaces, there types their make and how to implement them, This is part of my coursework for Non-Conventional Manufacturing Processes. ",
     image: '/images/self-cleaning.png',
     tags: ['None'],
     source: 'https://google.com',
