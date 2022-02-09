@@ -23,7 +23,7 @@ const Coursework = () =>  (
             Computer Programming <br />
             Linear Algebra <br />
             Permutations & Statistics <br />
-            
+            Engineering Graphics <br />
             Mechanics of Solids <br />
             Material Sciences <br />
             Transport Phenomena <br />
@@ -36,6 +36,7 @@ const Coursework = () =>  (
             Machine Drawing <br />
             Non-Traditional Processes <br />
             Automation & Control <br />
+            Non-Conventional Manufacturing Processes <br />
             CAD/CAM <br />
           </ListParagraph>
         </ListContainer>

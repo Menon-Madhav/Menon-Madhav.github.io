@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Pre-Final year student looking for thesis/internship opportunities
       </SectionText>
-      <Button onClick={() => window.location = 'https://drive.google.com/drive/folders/1fGiloZ7V1G0T6JiHvrAD4-V0itsHavba?usp=sharing'}>My Resume</Button>
+      <Button onClick={() => window.location = 'https://drive.google.com/drive/folders/1fGiloZ7V1G0T6JiHvrAD4-V0itsHavba?usp=sharing'}>My Résumé</Button>
     </LeftSection>
   </Section>
 );
