@@ -53,6 +53,7 @@ const Coursework = () =>  (
             Computational Fluid Dynamics(NPTEL) <br />
             Automotive Systems(NPTEL) <br />
             Mapping(Univeristy of Freiburg) <br />
+            Control Engineering <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
