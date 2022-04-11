@@ -29,7 +29,7 @@ export const projects = [
   {
     title: '3D Printing A Stirling Engine',
     description: "As part of my coursework, I had to design, manufacture and assemble a working stirling engine that uses temperature difference to make the fan rotate",
-    image: '/images/suspension.png',
+    image: '/images/Stirling_Engine.png',
     tags: ['Fusion360'],
     source: 'https://google.com',
     visit: 'None',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'CFD Project',
     description: "Using Open Source softwares like OpenFoam and gmsh to simulate liquid flow through a provided vessel(eg:-Nozzle). This project is part of my coursework for Numerical Fluid Flow & Heat Transfer.",
-    image: '/images/Stirling_Engine.png',
+    image: '/images/CFD.png',
     tags: ['OpenFoam', 'Gmsh', ],
     source: 'https://google.com',
     visit: 'https://github.com/Menon-Madhav/CFD',
